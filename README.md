@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Jolly Gupta!
 
 🎯 Aspiring **Data Scientist**  
-📍 Nagpur, Maharashtra, India  
+📍 Uttar Pradesh, India  
 📧 gupta.jolly29@gmail.com | 📞 +91 770-988-2463  
 🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jolly-gupta-b7672a189/))
 
