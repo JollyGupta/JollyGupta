@@ -2,8 +2,8 @@
 
 🎯 Aspiring **Data Scientist**  
 📍 Uttar Pradesh, India  
-📧 gupta.jolly29@gmail.com | 📞 +91 770-988-2463  
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jolly-gupta-b7672a189/))
+📧 gupta.jolly29@gmail.com | 📞 +91 8448530112
+🔗 [LinkedIn](https://www.linkedin.com/in/jolly-gupta-b7672a189/)]
 
 ---
 
