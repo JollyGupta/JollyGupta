@@ -25,28 +25,6 @@ Currently, I’m focused on developing my skills and building hands-on projects 
 
 ---
 
-## 🌱 Currently Learning
-
-- Deep Learning (Neural Networks, CNN, RNN)  
-- Cloud Platforms: AWS & Azure  
-- Time Series Forecasting
-
----
-
-## 📂 Projects
-
-Some of the projects I’ve worked on:
-
-- 🔍 **EDA on Customer Data**  
-- 🏠 **House Price Prediction**  
-- 📈 **Sales Forecasting**  
-- 🧠 **Classification Models for Medical Data**
-
-*(More projects available in pinned repositories)*
-
----
-
-## 📬 Let’s Connect!
 
 I’m always happy to collaborate, learn from others, or discuss data-related ideas.
 
