@@ -1,5 +1,6 @@
 ### 👀 Profile Views
-![Profile views](https://profile-counter.glitch.me/JollyGupta/count.svg)
+![Profile Views](https://profile-counter.glitch.me/JollyGupta/count.svg?digits=4&style=flat-square&color=blue&label=👁️%20views)
+
 
 
 # 👋 Hello, I'm Jolly Gupta!
