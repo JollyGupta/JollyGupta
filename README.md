@@ -1,5 +1,7 @@
 ### 👀 Profile Views
 ![Profile Views](https://profile-counter.glitch.me/JollyGupta/count.svg?digits=4&style=flat-square&color=blue&label=👁️%20views)
+![Visitor Badge](https://<your-vercel-app-name>.vercel.app/badge?page=JollyGupta)
+
 
 
 
