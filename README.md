@@ -1,3 +1,7 @@
+### 👀 Profile Views
+![Profile views](https://profile-counter.glitch.me/JollyGupta/count.svg)
+
+
 # 👋 Hello, I'm Jolly Gupta!
 
 🎯 Aspiring **Data Scientist**  
