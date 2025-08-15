@@ -13,31 +13,58 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/jolly-gupta-b7672a189/)]
 
 ---
+# 👋 Hi, I'm Jolly Gupta  
 
-## 🚀 About Me
+🚀 **Data Science Enthusiast** passionate about solving **real-world problems** by harnessing data, performing thorough **data cleaning**, applying the right **machine learning algorithms**, and deploying **scalable solutions** on cloud platforms for **seamless user access** & **actionable insights**.  
 
-I am a 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 passionate about 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬 by harnessing relevant data, performing thorough data cleaning, applying the right machine learning algorithms, and deploying scalable solutions on cloud platforms for seamless user access and actionable insights
+---
+
+## 🛠️ Core Technical Expertise  
+
+- **Programming & Scripting:** Python 🐍 | SQL  
+- **Core Libraries:** NumPy | Pandas | Pandas-AI | Matplotlib | Seaborn | Scikit-learn | SciPy  
+- **NLP Tools & Libraries:** SpaCy | NLTK | FastText | Gensim  
+
+---
+
+## 📊 Explored & Familiar Libraries  
+
+- **Visualization & EDA:** Yellowbrick | Sweetviz | Pandas Profiling (y-Profiler) | Plotly  
+- **Data Cleaning & Preprocessing:** PyJanitor | Missingno | Klib | PyCaret  
+- **Model Interpretation:** SHAP  
+
+---
+
+## 🎯 Core Data Science Skills  
+
+- Data Preparation & Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Machine Learning  
+- NLP  
+- Basic Deep Learning  
+
+---
+
+## 🌐 Web App & Cloud  
+
+- **Web App & API Development:** Streamlit | Streamlit Cloud  
+- **Cloud Platforms (Basic):**  
+  - AWS: S3 | EC2 | SageMaker  
+  - Azure: OpenAI | Notebook environment  
+
+---
+
+## 🗄️ Databases  
+
+- **Relational:** SQL Server Management Studio 19 | SQL Server 2022  
+- **NoSQL (Basic):** MongoDB  
+- **Spreadsheet Tools:** Microsoft Excel  
+
+---
+
+📌 *Always curious to learn, explore, and apply Data Science to impactful projects.*  
 
 
-𝐂𝐨𝐫𝐞 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞
-
-• 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 & 𝐒𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 : Python, SQL
-• 𝐂𝐨𝐫𝐞 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 : NumPy, Pandas, Pandas-AI, Matplotlib, Seaborn, Scikit-learn, SciPy
-• 𝐍𝐋𝐏 𝐓𝐨𝐨𝐥𝐬 & 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 : SpaCy, NLTK, FastText, Gensim
-
-𝐄𝐱𝐩𝐥𝐨𝐫𝐞𝐝 & 𝐅𝐚𝐦𝐢𝐥𝐢𝐚𝐫 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬:
-• Visualization & EDA: Yellowbrick, Sweetviz, Pandas Profiling (y-Profiler), Plotly
-• Data Cleaning & Preprocessing: PyJanitor, Missingno, Klib, PyCaret
-• Model Interpretation: SHAP
-
-𝐂𝐨𝐫𝐞 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐒𝐤𝐢𝐥𝐥𝐬
-Data Preparation | Exploratory Data Analysis (EDA) | 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 | NLP | Basic Deep Learning 
-
-• 𝐖𝐞𝐛 𝐀𝐩𝐩 & 𝐀𝐏𝐈 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 : Streamlit, Streamlit Cloud
-• 𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬 (𝐁𝐚𝐬𝐢𝐜) : AWS (S3, EC2, SageMaker), Azure (OpenAI, Notebook environment)
-• 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬 : SQL Server Management Studio 19, SQL Server 2022
-• 𝐍𝐨𝐒𝐐𝐋 (𝐁𝐚𝐬𝐢𝐜) : MongoDB
-• 𝐒𝐩𝐫𝐞𝐚𝐝𝐬𝐡𝐞𝐞𝐭 𝐓𝐨𝐨𝐥𝐬 : Microsoft Excel
 
 ---
 
