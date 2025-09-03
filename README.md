@@ -8,7 +8,7 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/jolly-gupta-b7672a189/)]
 
 ---
-# 👋 Hi, I'm Jolly Gupta  
+
 
 🚀 **Data Science Enthusiast** passionate about solving **real-world problems** by harnessing data, performing thorough **data cleaning**, applying the right **machine learning algorithms**, and deploying **scalable solutions** on cloud platforms for **seamless user access** & **actionable insights**.  
 
