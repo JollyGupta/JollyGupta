@@ -4,7 +4,7 @@
 
 🎯 Aspiring **Data Scientist**  
 📍 Pune, Maharashtra, India  
-📧 gupta.jolly29@gmail.com | 📞 +91 8448530112
+📧 gupta.jolly28@gmail.com | 📞 +91 8448530112
 🔗 [LinkedIn](https://www.linkedin.com/in/jolly-gupta-b7672a189/)]
 
 ---
