@@ -7,8 +7,7 @@
 📧 gupta.jolly28@gmail.com | 📞 +91 8448530112
 
 
-🚀 **Data Science Enthusiast** passionate about solving **real-world problems** by harnessing data, performing thorough **data cleaning**, applying the right **machine learning algorithms**, and deploying **scalable solutions** on cloud platforms for **seamless user access** & **actionable insights**.  
-
+🚀 **Data Science Enthusiast** passionate about solving **real-world problems** by harnessing data, performing thorough **data cleaning**, applying the right **machine learning algorithms**
 ---
 
 ## 🛠️ Core Technical Expertise  
